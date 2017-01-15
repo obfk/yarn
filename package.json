@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "playing with yarn",
   "main": "index.js",
+  "repository": "https://github.com/obfk/yarn",
   "author": "pipeline",
   "license": "MIT",
   "dependencies": {
