@@ -2,6 +2,6 @@
 # yarn lockfile v1
 
 
-js-emoji@iamcal/js-emoji:
+js-emoji@iamcal/js-emoji#v3.1.1:
   version "3.1.1"
   resolved "https://codeload.github.com/iamcal/js-emoji/tar.gz/75750a73f7ecbe8eed950613592953753c96a70f"

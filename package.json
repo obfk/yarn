@@ -6,7 +6,10 @@
   "repository": "https://github.com/obfk/yarn",
   "author": "pipeline",
   "license": "MIT",
+  "scripts": {
+    "bs": "rm -rf node_modules/ && yarn cache clean"
+  },
   "dependencies": {
-    "js-emoji": "iamcal/js-emoji"
+    "js-emoji": "iamcal/js-emoji#v3.1.1"
   }
 }
