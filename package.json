@@ -1,0 +1,8 @@
+{
+  "name": "yarn-git-install",
+  "version": "1.0.0",
+  "description": "playing with yarn",
+  "main": "index.js",
+  "author": "pipeline",
+  "license": "MIT"
+}
