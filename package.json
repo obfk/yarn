@@ -4,5 +4,8 @@
   "description": "playing with yarn",
   "main": "index.js",
   "author": "pipeline",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "js-emoji": "git://github.com/iamcal/js-emoji"
+  }
 }
