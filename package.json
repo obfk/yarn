@@ -6,6 +6,6 @@
   "author": "pipeline",
   "license": "MIT",
   "dependencies": {
-    "js-emoji": "git://github.com/iamcal/js-emoji"
+    "js-emoji": "iamcal/js-emoji"
   }
 }
